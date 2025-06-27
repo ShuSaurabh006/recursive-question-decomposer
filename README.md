@@ -5,6 +5,13 @@ This project is a CLI-based system that takes complex natural language questions
 Built as part of the **Python Internship Task at Grassroots Lab**.
 
 ---
+## 🎥 Demo Video
+
+📺 [Click here to watch the video demo](https://www.loom.com/share/f84d59db165f4ef497286c89ee70c08f)
+
+This video demonstrates 3–4 questions answered by the Recursive Question Decomposer system using LangGraph and pandas.
+
+---
 
 ## ✅ Features
 
